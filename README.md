@@ -12,16 +12,16 @@ Payment , Rental
 #### Dimension Tables
 Store,
 Film category,
-Customer
-Staff
-Address
-City
-Country
-film_actor
-Actor
-Inventory
-Film
-Category
+Customer,
+Staff,
+Address,
+City,
+Country,
+film_actor,
+Actor,
+Inventory,
+Film,
+Category,
 Language
 
 ##### Source
