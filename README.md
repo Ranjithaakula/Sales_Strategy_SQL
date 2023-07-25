@@ -7,8 +7,8 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 The data used consituted of the following tables:
 
 ### Fact Tables
-# Payment
-# Rental
+-Payment
+-Rental
 
 #### Dimension Tables
 # Store
