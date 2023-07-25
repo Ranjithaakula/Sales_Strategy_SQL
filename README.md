@@ -10,8 +10,8 @@ The data used consituted of the following tables:
 Payment , Rental
 
 #### Dimension Tables
-# Store
-#Film category
+Store,
+Film category,
 Customer
 Staff
 Address
