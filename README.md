@@ -19,8 +19,8 @@ City,
 Country,
 film_actor,
 Actor,
-Inventory,
 Film,
+Inventory,
 Category,
 Language
 
