@@ -6,10 +6,10 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 ## Data
 The data used consituted of the following tables:
 
-### Fact Tables
+## Fact Tables
 Payment , Rental
 
-#### Dimension Tables
+## Dimension Tables
 Store,
 Film category,
 Customer,
@@ -24,5 +24,5 @@ Film,
 Category,
 Language
 
-##### Source
+## Source
 The data source was from Rockbuster Stealth
