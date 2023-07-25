@@ -11,8 +11,8 @@ Payment
 Rental
 
 #### Dimension Tables
-Store
-Film category
+# Store
+#Film category
 Customer
 Staff
 Address
